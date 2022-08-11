@@ -1,0 +1,16 @@
+.card {
+  max-width:50%;
+  padding: 70px;
+}
+.card-title
+{
+  font-size: 55px;
+
+}
+body {
+  background-image: url(images/weather-background-image.avif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
